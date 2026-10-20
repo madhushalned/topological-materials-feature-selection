@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files
+data/*.csv
+data/*.json
+data/*.json.gz
+
+# Experimental outputs
+results/
+
+# Secrets
+.env
